@@ -98,5 +98,3 @@ Merkez noktası ve yarıçap bilgisiyle daireyi temsil eder. Alan, çevre ve ba�
 
 - Gürel Bilgin
 - Berkay Aras
-
-Bu proje, Kocaeli Sağlık ve Teknoloji Üniversitesi Yazılım Mühendisliği Bölümü Programlama Lab 1 dersi kapsamında geliştirilmiştir.
